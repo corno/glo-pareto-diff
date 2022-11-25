@@ -1,0 +1,25 @@
+{
+  "author": "Corno",
+  "bugs": {
+    "url": "https://github.com/corno/pareto/issues"
+  },
+  "description": "",
+  "homepage": "https://github.com/corno/pareto#readme",
+  "keywords": [],
+  "files": [
+    "dist"
+  ],
+  "license": "ISC",
+  "main": "./dist",
+  "name": "api-pareto-diff",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corno/api-pareto-diff.git"
+  },
+  "version": "0.8.0",
+  "dependencies": {
+    "pareto-core-types": "^0.7.0"
+  },
+  "interface-fingerprint": "a8ff4d1fb89e4389118cb2ed53246c50f1074372",
+  "content-fingerprint": "2dcf03727b387e84e537a7664a3205d322690ff6"
+}
